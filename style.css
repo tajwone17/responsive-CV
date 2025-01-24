@@ -105,3 +105,19 @@ body {
 
   font-weight: 300;
 }
+.contactInfo.education li {
+  margin-bottom: 15px;
+}
+.contactInfo.education h5 {
+  font-weight: 500;
+  color: #03a9f4;
+}
+.contactInfo.education h4 {
+  font-weight: 200;
+  color: #fff;
+}
+
+.contactInfo.education h4:nth-child(2) {
+  font-weight: 500;
+  color: #fff;
+}
