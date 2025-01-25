@@ -100,6 +100,18 @@ body {
   font-size: 18px;
   color: black;
 }
+.contactInfo.education i {
+  display: inline-block;
+  width: 30px;
+  font-size: 20px;
+  color: black;
+}
+.contactInfo.language i {
+  display: inline-block;
+  width: 30px;
+  font-size: 20px;
+  color: black;
+}
 .contactInfo ul li span {
   color: black;
 
@@ -307,7 +319,18 @@ body.dark {
   font-weight: 200;
   color: #fff;
 }
-
+.contactInfo-dark.education-dark i {
+  display: inline-block;
+  width: 30px;
+  font-size: 20px;
+  color: #577bc1;
+}
+.contactInfo-dark.language i {
+  display: inline-block;
+  width: 30px;
+  font-size: 20px;
+  color: #577bc1;
+}
 .contactInfo-dark.education-dark h4:nth-child(2) {
   font-weight: 500;
   color: #fff;
